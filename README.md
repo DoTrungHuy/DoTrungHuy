@@ -33,7 +33,7 @@
 ## 📈 GitHub 统计 (GitHub Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[CodeCurryZhang]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[CoderCurryZhang]&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ## 🏆 近期关注与项目 (Recent Focus)
