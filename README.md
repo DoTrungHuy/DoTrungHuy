@@ -1,4 +1,5 @@
-<h1 align="center">Hi there, I'm [Curry Zhang] 👋</h1>
+<h1 align="center">Hi there, I'm [Do Trung
+  Huy] 👋</h1>
 
 <h3 align="center">An AI Enthusiast & Algorithm Developer 🤖</h3>
 
