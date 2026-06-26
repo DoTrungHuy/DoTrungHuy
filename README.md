@@ -77,7 +77,15 @@
 
 ---
 
+## 📞 联系方式
+
+- **GitHub**：[@DoTrungHuy](https://github.com/DoTrungHuy)
+
+---
+
 ## 🌱 Motto
 
 > 稳得住，靠得住，做得成。  
 > Keep learning, keep building, and turn ideas into working projects.
+
+**Made with ❤️ by DoTrungHuy**
