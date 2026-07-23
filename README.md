@@ -92,11 +92,14 @@ More experiments:
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DoTrungHuy&show_icons=true&theme=tokyonight&hide_border=true" alt="Do Trung Huy's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoTrungHuy&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+  <img src="https://streak-stats.demolab.com?user=DoTrungHuy&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DoTrungHuy&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" />
 </p>
 
 ---
