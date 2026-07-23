@@ -92,11 +92,14 @@
 
 ---
 
-## 📈 GitHub 统计
+## 📈 GitHub 活跃情况
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DoTrungHuy&show_icons=true&theme=tokyonight&hide_border=true" alt="Do Trung Huy 的 GitHub 统计" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoTrungHuy&layout=compact&theme=tokyonight&hide_border=true" alt="常用语言" />
+  <img src="https://streak-stats.demolab.com?user=DoTrungHuy&theme=tokyonight&hide_border=true" alt="GitHub 连续贡献记录" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DoTrungHuy&theme=tokyo-night&hide_border=true&area=true" alt="GitHub 贡献活动图" />
 </p>
 
 ---
