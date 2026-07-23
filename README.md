@@ -1,91 +1,120 @@
-<h1 align="center">Hi there, I'm Do Trung Huy 👋</h1>
+<div align="center">
 
-<h3 align="center">Computer Science Student · AI Learner · Builder in Progress 🤖</h3>
+<h1>Hi, I'm Do Trung Huy 👋</h1>
+
+<p><strong>Computer Science Student · AI Builder · Open-Source Learner</strong></p>
+
+<p>
+  I turn ideas into small, testable, and well-documented systems—from governed AI agents
+  and explainable decision tools to local-first desktop apps, automation pipelines, and interactive visuals.
+</p>
+
+<p>
+  <strong>English</strong> · <a href="./README.zh-CN.md">简体中文</a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 关于我 (About Me)
+## 🚀 About Me
 
-- 🧠 目前主要学习 **人工智能、深度学习、计算机视觉与 AI Agent**，希望把课堂知识、竞赛项目和开源实践慢慢串起来。
-- 🔍 对 **AIGC 图像检测、Deepfake / AI-generated image forensic、模型评估与自动化测试** 比较感兴趣，正在尝试用代码把检测流程做得更清晰、更可复现。
-- 📡 正在参与 **毫米波雷达手势识别与交互控制** 相关项目，关注点云数据、时序特征、神经网络识别和人机交互控制。
-- 🎬 也会用 **Manim / Python** 做物理实验微视频动画，把抽象的光学、波动、反射折射等概念做成更直观的画面。
-- 🧩 我喜欢把一个复杂问题拆成能推进的小步骤：先看懂原理，再写出代码，最后整理成文档和可复用的项目。
-- ☕ **Fun Fact:** 当我不敲代码的时候，你大概率会发现我正沉浸在古典诗词的独特韵味中，或者穿梭在城市街巷里散步，在烟火气里寻找生活与算法的灵感。
-- 📫 联系方式：2374890793@qq.com / tdo770756@gmail.com
-
----
-
-## 🛠️ 技术栈 (Tech Stack)
-
-### 人工智能与数据科学
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%23white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-</p>
-
-### 开发工具与工程实践
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/MATLAB-e2000f?style=for-the-badge&logo=mathworks&logoColor=white" />
-</p>
-
-### 正在补强的方向
-<p align="left">
-  <img src="https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Agent-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Manim-3C7EBB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/mmWave_Radar-006699?style=for-the-badge" />
-</p>
+- 🧠 I am a Computer Science student exploring **AI agents, LLM applications, computer vision, automation, and human-computer interaction**.
+- 🛡️ My recent work focuses on making AI systems more dependable: **the model proposes, code enforces boundaries, evidence explains the result, and the user keeps control**.
+- 🧩 I enjoy turning complex ideas into a practical sequence: understand the problem, build a small working version, test the risky parts, and document what others need to reproduce it.
+- 🎨 I also use code as a creative medium—from AIGC interpretations of classical Chinese poetry and Manim physics animations to WebGL and 3D data visualization.
+- 🔬 My earlier explorations in **AIGC image forensics, deepfake detection, and mmWave radar gesture recognition** continue to shape how I think about models, evaluation, and interaction.
+- ☕ **Fun fact:** Away from the keyboard, I am usually reading classical poetry or walking through city streets, looking for the point where everyday life meets algorithms.
 
 ---
 
-## 🏆 近期关注与项目 (Recent Focus)
+## 🎯 Recent Focus
 
-- **AIGC 图像检测与图像取证：** 关注 AI 生成图像检测、Deepfake 识别、局部 patch 分析、热力图可视化与模型评估指标整理。
-- **毫米波雷达手势识别：** 学习点云数据读取、frame 结构理解、动作样本划分、标签组织和可视化，为后续模型训练做准备。
-- **AI Agent 与移动端工具：** 探索 Android 平板上的轻量级 AI Agent 工作流，希望把学习、整理、代码执行和自动化工具结合起来。
-- **Manim 物理动画：** 用 Python 动画辅助解释大学物理实验中的光学、波动、反射折射等概念。
-- **GitHub 项目整理：** 逐步把学习过程、竞赛项目和代码实验整理成更清晰的 README、提交历史和项目结构。
+- **Governed AI agents** — approval gates, explicit risk policies, secure local storage, and predictable tool execution.
+- **Local-first AI** — useful desktop and mobile workflows that keep private data on the user's device whenever possible.
+- **Explainable decisions** — deterministic constraints, evidence-backed recommendations, confidence separated from fit, and clear counterfactuals.
+- **Source-grounded automation** — reliable collectors, scheduled pipelines, deduplication, failure fallbacks, and auditable outputs.
+- **Interactive visualization** — WebGL, Three.js, GSAP, and motion systems that make technical ideas easier to explore.
+
+---
+
+## 🛠️ Tech Stack
+
+### AI, Data & Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+</p>
+
+### Apps, Web & Visualization
+
+<p>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PySide6" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
+</p>
+
+### Engineering Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-- [`AgentPad`](https://github.com/DoTrungHuy/AgentPad) — 尝试构建适合手机 / 平板使用的轻量级 AI Agent 工具。
-- [`NCDA_poetry_AIGC`](https://github.com/DoTrungHuy/NCDA_poetry_AIGC) — 面向 AIGC 图片类创作与竞赛表达的项目实践。
-- [`26video-make`](https://github.com/DoTrungHuy/26video-make) — 使用 Manim 制作物理实验竞赛微视频动画。
-- [`Daily-HighStar-Recommendations`](https://github.com/DoTrungHuy/Daily-HighStar-Recommendations) — 关注高 Star 开源项目，辅助发现值得学习的技术方向。
+| Project | What it does | What I focused on |
+| --- | --- | --- |
+| [**PocketAgent**](https://github.com/DoTrungHuy/PocketAgent) | An open-source, approval-gated AI agent workbench for Android phones and tablets. | Governed tool use, encrypted model profiles, explicit approvals, and China-mainland network setups. |
+| [**PolyPilot**](https://github.com/DoTrungHuy/Polymaker) | An explainable AI material advisor for 3D printing and a Feishu competition project. | Deterministic constraints, evidence-backed Top 3 recommendations, counterfactual explanations, and auditable feedback. |
+| [**DiskWise**](https://github.com/DoTrungHuy/DiskWise) | A local-first Windows AI workspace for organizing, searching, previewing, and safely changing files. | Plan-before-act workflows, local/cloud model routing, privacy boundaries, SQLite, and PySide6. |
+| [**Vendor Pulse**](https://github.com/DoTrungHuy/vendor-pulse) | A source-grounded dashboard for AI tools, model releases, deprecations, and source health. | Public-source collection, static data pipelines, verification states, failure fallbacks, and GitHub Actions. |
+| [**RepoCity**](https://github.com/DoTrungHuy/RepoCity) | A navigable 3D “code universe” that maps a repository into stars, planets, moons, and asteroids. | Repository analysis, React Three Fiber, spatial hierarchy, and interactive data storytelling. |
+| [**Personal Homepage**](https://github.com/DoTrungHuy/personal_homepage) | A single-file portfolio with a cinematic intro and an interactive WebGL fluid background. | Custom WebGL simulation, GSAP/ScrollTrigger motion, progressive fallback, and reduced-motion support. |
+
+More experiments:
+[X Daily Digest](https://github.com/DoTrungHuy/X-daily-digest) ·
+[声入诗境 / Poetry AIGC](https://github.com/DoTrungHuy/NCDA_poetry_AIGC) ·
+[Manim Physics Videos](https://github.com/DoTrungHuy/26video-make) ·
+[NJUPT AutoConnect](https://github.com/DoTrungHuy/NJUPT-AutoConnect)
 
 ---
 
-## 📈 GitHub 统计 (GitHub Stats)
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DoTrungHuy&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoTrungHuy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=DoTrungHuy&show_icons=true&theme=tokyonight&hide_border=true" alt="Do Trung Huy's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoTrungHuy&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 ---
 
-## 📞 联系方式
+## 📫 Contact
 
-- **GitHub**：[@DoTrungHuy](https://github.com/DoTrungHuy)
+- **GitHub:** [@DoTrungHuy](https://github.com/DoTrungHuy)
+- **Email:** [2374890793@qq.com](mailto:2374890793@qq.com) · [tdo770756@gmail.com](mailto:tdo770756@gmail.com)
 
 ---
 
 ## 🌱 Motto
 
-> 稳得住，靠得住，做得成。  
+> Stay steady. Be dependable. Finish what you start.  
 > Keep learning, keep building, and turn ideas into working projects.
 
-**Made with ❤️ by DoTrungHuy**
+<div align="center">
+
+**Made with ❤️ by Do Trung Huy**
+
+</div>
