@@ -13,6 +13,10 @@
   <a href="./README.md">English</a> · <strong>简体中文</strong>
 </p>
 
+<p>
+  🌐 <a href="https://zzk.trunghuy.top/">zzk.trunghuy.top</a>
+</p>
+
 </div>
 
 ---
@@ -34,6 +38,7 @@
 - **本地优先 AI** —— 尽可能让私人数据留在用户设备上的桌面端与移动端工作流。
 - **可解释决策** —— 确定性约束、证据化推荐、适配度与置信度分离，以及清晰的反事实解释。
 - **来源化自动化** —— 可靠采集、定时流水线、去重、失败回退和可审计输出。
+- **Agent Skill 信任层** —— 在安装技能前做确定性评分、安全审计和可复现评测。
 - **交互式可视化** —— 使用 WebGL、Three.js、GSAP 与动效系统，让技术概念更直观、更易探索。
 
 ---
@@ -82,10 +87,16 @@
 | [**DiskWise**](https://github.com/DoTrungHuy/DiskWise) | 本地优先的 Windows AI 文件工作台，用于整理、搜索、预览和安全执行文件变更。 | 先计划后执行、本地与云端模型路由、隐私边界、SQLite 与 PySide6。 |
 | [**Vendor Pulse**](https://github.com/DoTrungHuy/vendor-pulse) | 聚合 AI 工具、模型发布、弃用政策与来源健康度的来源化看板。 | 公开来源采集、静态数据流水线、核验状态、失败回退与 GitHub Actions。 |
 | [**RepoCity**](https://github.com/DoTrungHuy/RepoCity) | 把代码仓库映射为恒星、行星、卫星和小行星的可导航 3D“代码宇宙”。 | 仓库分析、React Three Fiber、空间层级和交互式数据叙事。 |
-| [**个人主页**](https://github.com/DoTrungHuy/personal_homepage) | 带电影式开场与交互式 WebGL 流体背景的单文件个人主页。 | 自研 WebGL 模拟、GSAP/ScrollTrigger 动效、渐进降级和低动态模式支持。 |
+| [**个人主页**](https://zzk.trunghuy.top/) | 东方水墨风格的个人数字花园，展示 Agent 工具、自动化项目、交互视觉与技术文章。 | Astro 静态发布、水墨开场、CSS/SVG/Canvas/GSAP 程序化场景，以及低动态模式支持。 |
+| [**SkillMeter**](https://github.com/DoTrungHuy/skillmeter) | Agent Skills 生态的评测与信任层：对质量、安全和兼容性做确定性打分。 | 31 条离线规则、安全评级上限、可复现语料库和公开方法学。 |
+| [**Page Agent**](https://github.com/DoTrungHuy/chrome-page-agent) | 住在 Chromium 侧边栏里的助手：能聊天、读懂当前网页，并在确认后操作页面。 | 结构化页面快照、审批后的浏览器操作、多模型接入和流式工具轨迹。 |
+| [**竞赛查询**](https://github.com/DoTrungHuy/competition-search) | 面向南邮计算机相关同学的竞赛查询站：查找还能报名、即将开报或正在进行的比赛，并跳到原文核对。 | 状态规则、校认定标签、每周同步，以及来源化外链。 |
 
 更多实践：
 [X Daily Digest](https://github.com/DoTrungHuy/X-daily-digest) ·
+[Daily High-Star Recommendations](https://github.com/DoTrungHuy/Daily-HighStar-Recommendations) ·
+[Celestial 工作台](https://github.com/DoTrungHuy/dsh-client-ui-celestial) ·
+[Web Beauty](https://github.com/DoTrungHuy/web_beauty) ·
 [声入诗境 / Poetry AIGC](https://github.com/DoTrungHuy/NCDA_poetry_AIGC) ·
 [Manim 物理动画](https://github.com/DoTrungHuy/26video-make) ·
 [NJUPT AutoConnect](https://github.com/DoTrungHuy/NJUPT-AutoConnect)
@@ -106,6 +117,7 @@
 
 ## 📫 联系方式
 
+- **个人网站：** [zzk.trunghuy.top](https://zzk.trunghuy.top/)
 - **GitHub：** [@DoTrungHuy](https://github.com/DoTrungHuy)
 - **邮箱：** [2374890793@qq.com](mailto:2374890793@qq.com) · [tdo770756@gmail.com](mailto:tdo770756@gmail.com)
 

@@ -13,6 +13,10 @@
   <strong>English</strong> · <a href="./README.zh-CN.md">简体中文</a>
 </p>
 
+<p>
+  🌐 <a href="https://zzk.trunghuy.top/">zzk.trunghuy.top</a>
+</p>
+
 </div>
 
 ---
@@ -34,6 +38,7 @@
 - **Local-first AI** — useful desktop and mobile workflows that keep private data on the user's device whenever possible.
 - **Explainable decisions** — deterministic constraints, evidence-backed recommendations, confidence separated from fit, and clear counterfactuals.
 - **Source-grounded automation** — reliable collectors, scheduled pipelines, deduplication, failure fallbacks, and auditable outputs.
+- **Agent skill trust** — deterministic scoring, security audits, and reproducible evaluation before a skill is installed.
 - **Interactive visualization** — WebGL, Three.js, GSAP, and motion systems that make technical ideas easier to explore.
 
 ---
@@ -82,10 +87,16 @@
 | [**DiskWise**](https://github.com/DoTrungHuy/DiskWise) | A local-first Windows AI workspace for organizing, searching, previewing, and safely changing files. | Plan-before-act workflows, local/cloud model routing, privacy boundaries, SQLite, and PySide6. |
 | [**Vendor Pulse**](https://github.com/DoTrungHuy/vendor-pulse) | A source-grounded dashboard for AI tools, model releases, deprecations, and source health. | Public-source collection, static data pipelines, verification states, failure fallbacks, and GitHub Actions. |
 | [**RepoCity**](https://github.com/DoTrungHuy/RepoCity) | A navigable 3D “code universe” that maps a repository into stars, planets, moons, and asteroids. | Repository analysis, React Three Fiber, spatial hierarchy, and interactive data storytelling. |
-| [**Personal Homepage**](https://github.com/DoTrungHuy/personal_homepage) | A single-file portfolio with a cinematic intro and an interactive WebGL fluid background. | Custom WebGL simulation, GSAP/ScrollTrigger motion, progressive fallback, and reduced-motion support. |
+| [**Personal Homepage**](https://zzk.trunghuy.top/) | An ink-wash digital garden for Agent tools, automation projects, interactive visuals, and notes. | Astro static publishing, a cinematic intro, procedural CSS/SVG/Canvas/GSAP scenes, and reduced-motion support. |
+| [**SkillMeter**](https://github.com/DoTrungHuy/skillmeter) | An evaluation and trust layer for Agent Skills: deterministic quality, security, and compatibility scoring. | 31-rule offline scoring, security-grade caps, a reproducible corpus, and a public methodology. |
+| [**Page Agent**](https://github.com/DoTrungHuy/chrome-page-agent) | A Chromium side-panel assistant that chats, reads the current page, and acts only after confirmation. | Structured page snapshots, approval-gated browser actions, multi-provider models, and streaming tool traces. |
+| [**Competition Search**](https://github.com/DoTrungHuy/competition-search) | A contest lookup site for NJUPT CS students: open, upcoming, and ongoing events with links back to official sources. | Status rules, school-catalog tags, weekly sync, and source-grounded outbound links. |
 
 More experiments:
 [X Daily Digest](https://github.com/DoTrungHuy/X-daily-digest) ·
+[Daily High-Star Recommendations](https://github.com/DoTrungHuy/Daily-HighStar-Recommendations) ·
+[Celestial Workbench](https://github.com/DoTrungHuy/dsh-client-ui-celestial) ·
+[Web Beauty](https://github.com/DoTrungHuy/web_beauty) ·
 [声入诗境 / Poetry AIGC](https://github.com/DoTrungHuy/NCDA_poetry_AIGC) ·
 [Manim Physics Videos](https://github.com/DoTrungHuy/26video-make) ·
 [NJUPT AutoConnect](https://github.com/DoTrungHuy/NJUPT-AutoConnect)
@@ -106,6 +117,7 @@ More experiments:
 
 ## 📫 Contact
 
+- **Website:** [zzk.trunghuy.top](https://zzk.trunghuy.top/)
 - **GitHub:** [@DoTrungHuy](https://github.com/DoTrungHuy)
 - **Email:** [2374890793@qq.com](mailto:2374890793@qq.com) · [tdo770756@gmail.com](mailto:tdo770756@gmail.com)
 
